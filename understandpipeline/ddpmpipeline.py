@@ -1,3 +1,4 @@
+#手动加载ddpmpipeline的各个板块并用其生图
 import torch
 from PIL import Image
 from tqdm.auto import tqdm

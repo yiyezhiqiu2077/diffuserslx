@@ -1,3 +1,4 @@
+#更换上一步操作的scheduler，观察生成效果
 import torch
 from diffusers import DiffusionPipeline,EulerDiscreteScheduler
 pipe = DiffusionPipeline.from_pretrained("stable-diffusion-v1-5/stable-diffusion-v1-5", torch_dtype=torch.float16, use_safetensors=True)

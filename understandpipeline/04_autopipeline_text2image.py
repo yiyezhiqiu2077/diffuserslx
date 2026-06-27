@@ -1,3 +1,5 @@
+#学习AutoPipeline的用法
+
 import torch
 from diffusers import AutoPipelineForText2Image
 

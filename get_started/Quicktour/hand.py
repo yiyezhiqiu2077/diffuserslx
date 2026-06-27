@@ -1,3 +1,5 @@
+#手动调控model预测噪声和scheduler过程
+
 import torch
 import tqdm
 import numpy as np

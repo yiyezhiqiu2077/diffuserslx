@@ -1,3 +1,5 @@
+#保存模型到本地并加载生成图片
+
 import torch
 from diffusers import StableDiffusionPipeline
 

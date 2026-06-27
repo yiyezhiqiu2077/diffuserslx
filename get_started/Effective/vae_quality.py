@@ -1,3 +1,4 @@
+#更换VAE对比生成效果
 import torch
 from diffusers import DiffusionPipeline, DPMSolverMultistepScheduler, AutoencoderKL
 from diffusers.utils import make_image_grid

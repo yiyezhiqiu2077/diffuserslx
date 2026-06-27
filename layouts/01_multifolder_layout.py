@@ -1,3 +1,4 @@
+#保存模型到本地
 import os
 import torch
 from diffusers import StableDiffusionPipeline

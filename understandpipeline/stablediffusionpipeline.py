@@ -1,3 +1,4 @@
+#手动加载的stable duffusion的pipeline的各个板块并用其生成图片
 import torch
 from PIL import Image
 from tqdm.auto import tqdm

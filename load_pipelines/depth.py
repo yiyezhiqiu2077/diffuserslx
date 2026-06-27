@@ -1,3 +1,5 @@
+#调用社区pipeline
+
 import torch
 from diffusers import DiffusionPipeline
 from diffusers.utils import load_image

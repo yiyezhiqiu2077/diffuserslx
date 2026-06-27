@@ -1,3 +1,5 @@
+#采用半精度（float16）和减少采样步数的方法加速
+
 import torch
 from diffusers import DiffusionPipeline, DPMSolverMultistepScheduler
 

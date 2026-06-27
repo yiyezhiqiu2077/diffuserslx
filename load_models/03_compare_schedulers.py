@@ -1,3 +1,5 @@
+#更换不同的schedulers进行对比实验
+
 import torch
 from diffusers import (
     DiffusionPipeline,

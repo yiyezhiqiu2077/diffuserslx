@@ -1,3 +1,5 @@
+#对比stablediffusion更换不同prompt后的生成效果
+
 import torch
 from diffusers import DiffusionPipeline, DPMSolverMultistepScheduler
 from diffusers.utils import make_image_grid
