@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local env
+.venv/
+venv/
+env/
+
+# local Stable Diffusion model folders
+layouts/local_sd15_multifolder/
+
+# model weights / checkpoints
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+*.msgpack
+
+# training outputs
+**/checkpoint*/
+**/checkpoints/
+**/outputs/
+**/runs/
+**/logs/
+**/wandb/
+
+# generated cache
+.cache/
+huggingface/
